@@ -1,0 +1,4 @@
+services:
+#    ppesosplayer.example:
+#        class: PPE\SOSPLAYERBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]

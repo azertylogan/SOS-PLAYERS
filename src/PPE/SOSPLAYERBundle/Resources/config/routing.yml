@@ -1,0 +1,3 @@
+ppesosplayer_homepage:
+    path:     /
+    defaults: { _controller: PPESOSPLAYERBundle:Default:index }
