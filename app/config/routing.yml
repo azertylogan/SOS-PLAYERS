@@ -1,0 +1,15 @@
+ppe_accueil:
+    resource: "@PPEAccueilBundle/Resources/config/routing.yml"
+    prefix:   /
+
+ppesosplayer:
+    resource: "@PPESOSPLAYERBundle/Resources/config/routing.yml"
+    prefix:   /
+
+ppesosplayer_accueil:
+    resource: "@PPESOSPLAYERAccueilBundle/Resources/config/routing.yml"
+    prefix:   /
+
+app:
+    resource: '@AppBundle/Controller/'
+    type: annotation
