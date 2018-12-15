@@ -1,0 +1,30 @@
+
+.background {
+background-image:url(https://cdn.discordapp.com/attachments/489713907628376065/489817721219842048/unknown.png);
+}
+
+.droite{
+	padding-left: 50%;
+}
+
+.haut {
+	margin-top: 10%;
+}
+
+.hautins {
+	margin-top: 2%;
+}
+
+.searchnav {
+	padding-right: 0px;
+}
+
+.background1 {
+	background-color: grey
+}
+
+.titre{
+	margin-top: 5%;
+	color: white;
+	text-align: center;
+}

@@ -1,0 +1,17 @@
+.background {
+	background: silver;
+}
+
+.gauche {
+	float: left;
+	
+}
+
+.bordure {
+	border-top: 3px solid black;
+	border: 3px solid black;
+}
+
+.marge {
+	margin-left: 15px;
+}
